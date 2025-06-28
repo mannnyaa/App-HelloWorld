@@ -1,18 +1,18 @@
 {
   "frame": {
-    "name": "h",
+    "name": "app-hello-world",
     "version": "1",
-    "iconUrl": "https://f-demo.vercel.app/logo.png",
-    "homeUrl": "https://f-demo.vercel.app/logo.png",
-    "subtitle": "h",
-    "description": "h",
-    "primaryCategory": "games",
-    "splashImageUrl": "https://f-demo.vercel.app/logo.png",
-    "splashBackgroundColor": "#ffffff"
+    "iconUrl": "https://app-hello-world.vercel.app/logo.png",
+    "homeUrl": "https://app-hello-world.vercel.app",
+    "splashImageUrl": "https://app-hello-world.vercel.app/logo.png",
+    "splashBackgroundColor": "#ffffff",
+    "subtitle": "app-hello-world",
+    "description": "app-hello-world",
+    "primaryCategory": "games"
   },
   "accountAssociation": {
-    "header": "eyJmaWQiOjY4MTIwNywidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweEM2YTM3MWY3NWNmMjE2Y0Y5Zjg0OWM1MDA5Yzk0RkJDRjVhMDQ1MGYifQ",
-    "payload": "eyJkb21haW4iOiJhcHAtaGVsbG8td29ybGQudmVyY2VsLmFwcCJ9",
-    "signature": "MHgzNDgzZTNmYmY5ZTQ0Njc3NGU0ZWRhN2FiMWQ4Yjg5NGZiNDgwZDc3NGU5ZjA4YTZjYWFlOWE3NWE4Y2M5ZjdmNTQzNGI5NjU0MTM4NzE2MTZhNTJhOWE4ODhhOGJkYzk2MDQ3Mzg3OWI2ZWVkNTUzNmEwNTFmYjFiNTA5NGFjZTFj"
+    "header": "",
+    "payload": "",
+    "signature": ""
   }
 }
